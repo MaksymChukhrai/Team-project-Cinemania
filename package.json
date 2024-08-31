@@ -2,20 +2,20 @@
   "name": "team-project-cinemania",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/OleksiiVTS/team-js-goit",
+  "homepage": "https://github.com/MaksymChukhrai/team-project-cinemania",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /team-project-cinemania/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OleksiiVTS/team-js-goit.git"
+    "url": "git+https://github.com/MaksymChukhrai/team-project-cinemania"
   },
   "keywords": [],
-  "author": "Grope 9-78. GoIT>",
+  "author": "Maksym Chukhrai as part of Group 9-78. GoIT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/OleksiiVTS/team-js-goit/issues"
+    "url": "https://github.com/MaksymChukhrai/team-project-cinemania/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
